@@ -13,9 +13,9 @@ Winner gets money!
 
 Pokemon Types
 
-Fire beats Grass
-Water beats Fire
-Grass beats Water
+Fire beats Grass,
+Water beats Fire,
+Grass beats Water,
 
 Pokemon List 
 Starters: Charmander, Squirtle, Bulbasaur 
